@@ -5,3 +5,5 @@ _In this directory there are two folders:_
 - "Theoretical part" (here are tests in .txt format).
 ***
 Some of folders are empty because a lab/test is not ready.
+***
+Labs were made by Helen Sherstuik.
