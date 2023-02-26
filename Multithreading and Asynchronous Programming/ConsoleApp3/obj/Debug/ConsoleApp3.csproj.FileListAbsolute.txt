@@ -1,8 +1,0 @@
-G:\универ\3_курс\ПППИ\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-G:\универ\3_курс\ПППИ\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-G:\универ\3_курс\ПППИ\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-G:\универ\3_курс\ПППИ\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
-G:\универ\3_курс\ПППИ\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
-G:\универ\3_курс\ПППИ\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
-G:\универ\3_курс\ПППИ\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-G:\универ\3_курс\ПППИ\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
