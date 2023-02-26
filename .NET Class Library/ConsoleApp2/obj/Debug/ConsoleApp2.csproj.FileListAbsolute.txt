@@ -1,0 +1,8 @@
+G:\универ\3_курс\ПППИ\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+G:\универ\3_курс\ПППИ\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+G:\универ\3_курс\ПППИ\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+G:\универ\3_курс\ПППИ\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+G:\универ\3_курс\ПППИ\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+G:\универ\3_курс\ПППИ\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\универ\3_курс\ПППИ\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+G:\универ\3_курс\ПППИ\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
